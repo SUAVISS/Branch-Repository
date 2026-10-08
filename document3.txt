@@ -1,1 +1,2 @@
 print("hello world")
+컴퓨터공학과
